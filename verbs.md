@@ -215,6 +215,7 @@ Regular: True
             
 
 Wir möchten bestellen, bitte.
+Kann ich am Tisch bestellen?
 
 --------------------------------------------------------------------------------
 besuchen - to visit
@@ -274,6 +275,7 @@ Regular: True
             | 3rd          | er/sie/es braucht | sie brauchen |
             
 
+Wir brauchen noch Eier.
 Brauchst du die Zeitung noch?
 
 --------------------------------------------------------------------------------
@@ -371,6 +373,7 @@ Regular: True
             | 3rd          | er/sie/es steigt _ ein | sie steigen _ ein |
             
 
+Einsteigen Bitte.
 Schnell, steig ein, der Zug fährt gleich.
 
 --------------------------------------------------------------------------------
@@ -434,6 +437,7 @@ Vokalwechsel: e -> i
             
 
 Was gibt es zu essen?
+Du isst gerne Eis.
 
 --------------------------------------------------------------------------------
 fahren - to drive
@@ -464,7 +468,7 @@ Regular: True
             | 3rd          | er/sie/es feiernt | sie feiernen |
             
 
-Wir feiren heute meinen Geburtstag.
+Wir feiern heute meinen Geburtstag.
 
 --------------------------------------------------------------------------------
 finden - to find
@@ -497,6 +501,7 @@ Regular: True
             
 
 Warum fragst du mich das?
+Kann ich dich etwas fragen?
 
 --------------------------------------------------------------------------------
 geben - to give
@@ -513,7 +518,7 @@ Vokalwechsel: e -> i
             
 
 Gebt mir noch einen.
-Gibt es Milch.
+Gibt es Milch?
 Kannst du mir bitte das Salz geben?
 
 --------------------------------------------------------------------------------
@@ -565,6 +570,7 @@ Has 2 special exceptions: du, er/sie/es.
             
 
 Ich habe ein neues Handy.
+Ich habe eine Frage.
 
 --------------------------------------------------------------------------------
 halten - to hold/keep
@@ -614,6 +620,8 @@ Vokalwechsel: e -> i
             
 
 Können Sie mir helfen, Bitte?
+Kann ich dir helfen?
+Kann ich dir damit helfen?
 
 --------------------------------------------------------------------------------
 holen - to fetch
@@ -660,6 +668,7 @@ Regular: True
             
 
 Tim kauft sich ein neues Auto.
+Ich will neue Schuhe kaufen.
 
 --------------------------------------------------------------------------------
 kennen - to know
@@ -674,6 +683,7 @@ Regular: True
             | 3rd          | er/sie/es kennt | sie kennen |
             
 
+Kennen Sie diese Strasse?
 Ich kenne sie.
 
 --------------------------------------------------------------------------------
@@ -724,7 +734,7 @@ Has 3 special exceptions: ich, du, er/sie/es.
             | 3rd          | er/sie/es kann | sie können |
             
 
-Ich kann nicht heute arbeiten.
+Ich kann heute nicht kommen.
 Kannst du gut kochen?
 Könnt ihr mir bitte helfen?
 Warum kannst du nicht schalfen?
@@ -777,6 +787,7 @@ Vokalwechsel: e -> ie
 
 Die Frau liest.
 Ich lese alles.
+Mein Deutsch ist schlecht,  ich kann das nicht lesen.
 
 --------------------------------------------------------------------------------
 machen - to do
@@ -809,9 +820,10 @@ Regular: True
             
 
 Was möchten Sie trinken?
+Ich möchte einen Kaffee.
 
 --------------------------------------------------------------------------------
-mögen - to like
+mögen - to like (politely)
 
 Regular: False
 Vokalwechsel: None
@@ -861,7 +873,7 @@ Vokalwechsel: eh -> im
             
 
 Ich nehme den Bus zur Arbeit.
-Nmmst du Zucker in deinen Kaffee?
+Nimmst du Zucker in deinen Kaffee?
 
 --------------------------------------------------------------------------------
 reisen - to travel
@@ -910,8 +922,8 @@ Vokalwechsel: a -> ä
 
 Sie schläft schon.
 Schläfst du noch?
-Hast du geschalfen?
-Ich schalfe nie.
+Hast du geschlafen?
+Ich schlafe nie.
 
 --------------------------------------------------------------------------------
 schreiben - to write
@@ -1081,7 +1093,7 @@ Vokalwechsel: e -> i
 
 Wann triffst du deine Familie?
 Er trifft seine Kollegin im Café.
-Ih treffe meine Freunde nach der Arbeit.
+Ich treffe meine Freunde nach der Arbeit.
 
 --------------------------------------------------------------------------------
 trinken - to drink
@@ -1129,6 +1141,21 @@ Regular: True
             
 
 Die Wohnung ist schon vermietet.
+
+--------------------------------------------------------------------------------
+verstehen - to understand
+
+Regular: True
+
+            | Person       | Singular | Plural |
+            | ------------ | -------- | ------ |
+            | 1st          | ich verstehe | wir verstehen |
+            | 2nd          | du verstehst | ihr versteht |
+            | 2nd (formal) | Sie verstehen | Sie verstehen |
+            | 3rd          | er/sie/es versteht | sie verstehen |
+            
+
+Ich verstehe kein Deustsch.
 
 --------------------------------------------------------------------------------
 waschen - to wash
@@ -1184,6 +1211,7 @@ Has 3 special exceptions: ich, du, er/sie/es.
             
 
 Jeder weiß das.
+ich weiß nicht.
 
 --------------------------------------------------------------------------------
 wohnen - to live
@@ -1218,7 +1246,7 @@ Has 3 special exceptions: ich, du, er/sie/es.
             
 
 Wollen Sie einen Kaffee trinken?
-Willst du etwas triken?
+Willst du etwas trinken?
 Was willst du heute Abend machen?
 Was will er zum Geburtstag?
 
