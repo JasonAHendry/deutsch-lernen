@@ -123,7 +123,7 @@ def get_anki_format(verb: Verb):
     if verb.modal:
         anki_format += f"{verb.infinitive} is a modal verb.\n"
     if verb.separable:
-        anki_format += f"{verb.infinitive} is a seperable verb.\n"
+        anki_format += f"{verb.infinitive} is a separable verb.\n"
     if verb.exceptions is not None:
         e_str = ", ".join(e[0] for e in verb.exceptions)
         anki_format += f"Has {len(verb.exceptions)} special exceptions: {e_str}.\n"
