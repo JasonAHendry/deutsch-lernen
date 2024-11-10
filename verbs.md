@@ -2,6 +2,7 @@ abfahren - to depart
 
 Regular: False
 Vokalwechsel: a -> ä
+abfahren is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -18,6 +19,7 @@ abgeben - to drop off
 
 Regular: False
 Vokalwechsel: e -> i
+abgeben is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -33,6 +35,7 @@ Ich muss meine Schlüssel abgeben.
 abholen - to pick up
 
 Regular: True
+abholen is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -49,6 +52,7 @@ Wann kann ich den Schrank bei dir abholen?
 anbieten - to offer
 
 Regular: True
+anbieten is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -65,6 +69,7 @@ anfangen - to begin
 
 Regular: False
 Vokalwechsel: a -> ä
+anfangen is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -80,6 +85,7 @@ Hier fängt die Banhofstraße an.
 ankommen - to arrive
 
 Regular: True
+ankommen is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -95,6 +101,7 @@ Wann kommt dieser Zug in Hamburg an?
 anrufen - to call someone
 
 Regular: True
+anrufen is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -144,6 +151,7 @@ Wo arbeiten Sie?
 aufhören - to end
 
 Regular: True
+aufhören is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -333,6 +341,7 @@ Darf ich dein Fahrrad nehmen?
 einkaufen - to shop
 
 Regular: True
+einkaufen is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -349,6 +358,7 @@ einladen - to invite
 
 Regular: False
 Vokalwechsel: a -> ä
+einladen is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -364,6 +374,7 @@ Darf ich Sie zu einem Kaffee einladen?
 einsteigen - to entry/get on
 
 Regular: True
+einsteigen is a seperable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |

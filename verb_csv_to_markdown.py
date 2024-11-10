@@ -23,7 +23,7 @@ class Verb:
     meaning: str
     regular: bool = True
     vokalwechsel: Tuple[str, str] = None
-    seperable: str = None
+    separable: str = None
     modal: bool = False
     exceptions: List[Tuple[str, str]] = None
     examples: List[str] = None
@@ -68,9 +68,9 @@ def conjugate(verb: Verb, pronoun: Pronoun) -> str:
             ending = f"e{ending}"
 
     # Check if seperable
-    if verb.seperable is not None:
-        stem = re.sub(f"^{verb.seperable}", "", stem)
-        ending += f" _ {verb.seperable}"
+    if verb.separable is not None:
+        stem = re.sub(f"^{verb.separable}", "", stem)
+        ending += f" _ {verb.separable}"
 
     # Vokalwechsel if necessary
     if verb.vokalwechsel is not None:
@@ -122,6 +122,8 @@ def get_anki_format(verb: Verb):
         anki_format += f"Vokalwechsel: {vkl_str}\n"
     if verb.modal:
         anki_format += f"{verb.infinitive} is a modal verb.\n"
+    if verb.separable:
+        anki_format += f"{verb.infinitive} is a seperable verb.\n"
     if verb.exceptions is not None:
         e_str = ", ".join(e[0] for e in verb.exceptions)
         anki_format += f"Has {len(verb.exceptions)} special exceptions: {e_str}.\n"
@@ -154,7 +156,7 @@ def convert_row_to_verb(row: pd.Series) -> Verb:
         'meaning': _,
         'regular': _,
         'vokalwechsel': format_vokalwechsel,
-        'seperable': _,
+        'separable': _,
         'modal': _,
         'examples': format_examples,
         'exceptions': format_exceptions
