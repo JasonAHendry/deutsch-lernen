@@ -1,0 +1,76 @@
+﻿infinitive,meaning,regular,vokalwechsel,seperable,modal,exceptions,examples
+abfahren,to depart,FALSE,a->ä,ab,,,Wir fahren um zwölf Uhr ab.
+abgeben,to drop off,FALSE,e->i,ab,,,Ich muss meine Schlüssel abgeben.
+abholen,to pick up,TRUE,,ab,,,Wir müssen noch meinen Bruder abholen.; Wann kann ich den Schrank bei dir abholen?
+anbieten,to offer,TRUE,,an,,,Was darf ich dir anbieten?
+anfangen,to begin,FALSE,a->ä,an,,,Hier fängt die Banhofstraße an.
+ankommen,to arrive,TRUE,,an,,,Wann kommt dieser Zug in Hamburg an?
+anrufen,to call someone,TRUE,,an,,,Kann man Sie anrufen?; Wann kannst du ihn anrufen?
+antworten,to answer,TRUE,,,,,Bitte antworte ja oder nein.; Er antowrtet nicht.
+arbeiten,to work,TRUE,,,,,Arbeitest du abends?; Tom arbeitet hier.; Wo arbeiten Sie?
+aufhören,to end,TRUE,,auf,,,Hier hört die Bahnhofstraße auf.
+beginnen,to begin,TRUE,,,,,Das Spiel beginnt um 15.30 Uhr.
+bekommen,to get/receive,TRUE,,,,,Was bekommen Sie?; Haben Sie meinen Brief bekommen?
+benutzen,to use,TRUE,,,,,Die Aufzüge bitte nicht benutzen!
+bestellen,to order,TRUE,,,,,"Wir möchten bestellen, bitte."
+besuchen,to visit,TRUE,,,,,Darf ich dich besuchen?
+bezahlen,to pay,TRUE,,,,,Wo muss ich bezhalen?
+bleiben,to stay,TRUE,,,,,Ich bleibe heute zu Hause.
+brauchen,to need,TRUE,,,,,Brauchst du die Zeitung noch?
+bringen,to bring,TRUE,,,,,Er bringt das Bier.; Bringen Sie mir bitte noch einen Kaffee!
+denken,to think/guess,TRUE,,,,,Ich denke es ist wahr.; Was denkst du?
+dürfen,to be allowed,FALSE,,,TRUE,ich darf; du darfst; er/sie/es darf,Darf ich hier sitzen?; Darf ich dein Fahrrad nehmen?
+einkaufen,to shop,TRUE,,ein,,,Ich muss noch für morgen einkaufen.
+einladen,to invite,FALSE,a->ä,ein,,,Darf ich Sie zu einem Kaffee einladen?
+einsteigen,to entry/get on,TRUE,,ein,,,"Schnell, steig ein, der Zug fährt gleich."
+empfehlen,to recommend,FALSE,e->ie,,,,Welchen Wein können Sie mir empfehlen?
+erklären,to explain,TRUE,,,,,Kannst du mir das erklären?
+erlauben,to permit,TRUE,,,,,Rauchen ist hier nicht erlaubt.
+essen,to eat,FALSE,e->i,,,,Was gibt es zu essen?
+fahren,to drive,FALSE,a->ä,,,,Ich fahre mit dem Fahrrad zur Arbeit.
+feiern,to celebrate,TRUE,,,,,Wir feiren heute meinen Geburtstag.
+finden,to find,TRUE,,,,,Ich finde Deutsch schwer.; Wo finde ich eine Bäckerei?; Findest du sie attraktiv?
+fragen,to ask,TRUE,,,,,Warum fragst du mich das?
+geben,to give,FALSE,e->i,,,,Gebt mir noch einen.; Gibt es Milch.;Kannst du mir bitte das Salz geben?
+gehen,to go,TRUE,,,,,Ich gehe heute ins Kino.; Wie geht's?; Das geht nicht.
+glauben,to believe,TRUE,,,,,"Ich glaube, er kommt gleich.; Ich glaube an dich."
+haben,to have,FALSE,,,,du hast; er/sie/es hat,Ich habe ein neues Handy.
+halten,to hold/keep,FALSE,a->ä,,,,Dieser Zug hält nicht in Berlin.
+heißen,to be called,TRUE,,,,,Ich heiße Jason.; Wie heißt du?; Wie heißt das auf Deutsch?
+helfen,to help,FALSE,e->i,,,,"Können Sie mir helfen, Bitte?"
+holen,to fetch,TRUE,,,,,Ich hole zwei Flaschen Wasser aus der Küche.
+hören,to hear,TRUE,,,,,Hörst du mich?; Ich höre etwas.
+kaufen,to buy,TRUE,,,,,Tim kauft sich ein neues Auto.
+können,to can/be able,FALSE,,,TRUE,ich kann; du kannst; er/sie/es kann,Ich kann nicht heute arbeiten.; Kannst du gut kochen?; Könnt ihr mir bitte helfen?; Warum kannst du nicht schalfen?
+kochen,to cook/boil,TRUE,,,,,ich koche täglich.; Kochst du gern?
+kommen,to come,TRUE,,,,,Woher kommen Sie?; Kommst du mit?
+kennen,to know,TRUE,,,,,Ich kenne sie.
+laufen,to walk/run,FALSE,au->äu,,,,"Ich möchte laufen.; Er läuft zur Arbeit, weil sein Auto kaputt ist."
+lernen,to learn,TRUE,,,,,Ich lerne Deutsch.
+lesen,to read,FALSE,e->ie,,,,Die Frau liest.; Ich lese alles.
+machen,to do,TRUE,,,,,Was machst du am Wochenende?; Wir machen heute Abend Pizza.; Was machst du beruflich?
+möchten,to would like (polite request),TRUE,,,,,Was möchten Sie trinken?
+mögen,to like,FALSE,,,TRUE,ich mag; du magst; er/sie/es mag,Magst du Kaffee oder Tee?
+müssen,to have to,FALSE,,,TRUE,ich muss; du musst; er/sie/es muss,Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+nehmen,to take,FALSE,eh->im,,,,Ich nehme den Bus zur Arbeit.; Nmmst du Zucker in deinen Kaffee?
+reisen,to travel,TRUE,,,,,Ich reise oft.; Reist du im Sommer nach Spanien?
+sagen,to say,TRUE,,,,,Ich sage die Wahrheit.
+schalfen,to sleep,FALSE,a->ä,,,,Sie schläft schon.; Schläfst du noch?; Hast du geschalfen?; Ich schalfe nie.
+schreiben,to write,TRUE,,,,,Schreiben Sie bitte Ihren Namen.; Er schreibt Bücher.
+schwimmen,to swim,TRUE,,,,,Ich schwimme jede Tag einen Kilometer.
+sehen,to see,FALSE,e->ie,,,,Ich kann dich nicht sehen.
+sein,to be,FALSE,,,,ich bin; du bist; Sie sind; er/sie/es ist; wir sind; ihr seid; sie sind,Ich bin vierunddreisßig Jahre alt.; Wo bist du jetzt?
+sollen,to should/be supposed to,FALSE,,,TRUE,ich soll; du sollst; er/sie/es soll,Soll ich dich heute oder morgen anrufen?; Wann sollen wir kommen?; Was soll ich tun?
+sprechen,to speak,FALSE,e->i,,,,Sprichst du Englisch?; Sprechen Sie Englisch?; Ich spreche schlecht Deutsch.; Welche Sprachen sprichst du?
+studieren,to study,TRUE,,,,,Ich studiere Biologie.; Er studiert immer fleißig.; Was hast du studiert?
+tanzen,to dance,TRUE,,,,,"Ich weiß nicht, wie man tanzt.; Du tanzt."
+telefonieren,to telephone,TRUE,,,,,Ich habe telefoniert.
+treffen,to meet (somebody),FALSE,e->i,,,,Wann triffst du deine Familie?; Er trifft seine Kollegin im Café.; Ih treffe meine Freunde nach der Arbeit.
+trinken,to drink,TRUE,,,,,Ich trinke gern Bier.; Was trinkst du?
+verkaufen,to sell,TRUE,,,,,Verkaufst du auch Bücher?; Er verkauft sein altes Auto.
+vermieten,to rent/lease,TRUE,,,,,Die Wohnung ist schon vermietet.
+waschen,to wash,FALSE,a->ä,,,,Ich wasche meine Hände.; Er wäscht das Auto am Wochenende.
+werden,to become,FALSE,e->i,,,du wirst,Wirst du morgen zur Party kommen?; Wirst du noch lange hier bleiben?; Es wird langsam dunkel.; Es wird kalt drausßen.; 
+wissen,to know,FALSE,,,,ich weiß; du weißt; er/sie/es weiß,Jeder weiß das.
+wohnen,to live,TRUE,,,,,Ich wohne seit zwei Jahren in Berlin.; Wo wohnst du?
+wollen,to want/intend,FALSE,,,TRUE,ich will; du willst; er/sie/es will,Wollen Sie einen Kaffee trinken?; Willst du etwas triken?; Was willst du heute Abend machen?; Was will er zum Geburtstag?
