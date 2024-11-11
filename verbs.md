@@ -2,7 +2,7 @@ abfahren - to depart
 
 Regular: False
 Vokalwechsel: a -> ä
-abfahren is a seperable verb.
+abfahren is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -19,7 +19,7 @@ abgeben - to drop off
 
 Regular: False
 Vokalwechsel: e -> i
-abgeben is a seperable verb.
+abgeben is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -35,7 +35,7 @@ Ich muss meine Schlüssel abgeben.
 abholen - to pick up
 
 Regular: True
-abholen is a seperable verb.
+abholen is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -52,7 +52,7 @@ Wann kann ich den Schrank bei dir abholen?
 anbieten - to offer
 
 Regular: True
-anbieten is a seperable verb.
+anbieten is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -69,7 +69,7 @@ anfangen - to begin
 
 Regular: False
 Vokalwechsel: a -> ä
-anfangen is a seperable verb.
+anfangen is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -85,7 +85,7 @@ Hier fängt die Banhofstraße an.
 ankommen - to arrive
 
 Regular: True
-ankommen is a seperable verb.
+ankommen is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -101,7 +101,7 @@ Wann kommt dieser Zug in Hamburg an?
 anrufen - to call someone
 
 Regular: True
-anrufen is a seperable verb.
+anrufen is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -151,7 +151,7 @@ Wo arbeiten Sie?
 aufhören - to end
 
 Regular: True
-aufhören is a seperable verb.
+aufhören is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -162,6 +162,42 @@ aufhören is a seperable verb.
             
 
 Hier hört die Bahnhofstraße auf.
+
+--------------------------------------------------------------------------------
+ausfallen - to be cancelled
+
+Regular: False
+Vokalwechsel: a -> ä
+ausfallen is a separable verb.
+
+            | Person       | Singular | Plural |
+            | ------------ | -------- | ------ |
+            | 1st          | ich falle _ aus | wir fallen _ aus |
+            | 2nd          | du fällst _ aus | ihr fallt _ aus |
+            | 2nd (formal) | Sie fallen _ aus | Sie fallen _ aus |
+            | 3rd          | er/sie/es fällt _ aus | sie fallen _ aus |
+            
+
+Der Zug fällt aus.
+Warum fällt der Zug aus?
+
+--------------------------------------------------------------------------------
+aussteigen - to exit
+
+Regular: True
+aussteigen is a separable verb.
+
+            | Person       | Singular | Plural |
+            | ------------ | -------- | ------ |
+            | 1st          | ich steige _ aus | wir steigen _ aus |
+            | 2nd          | du steigst _ aus | ihr steigt _ aus |
+            | 2nd (formal) | Sie steigen _ aus | Sie steigen _ aus |
+            | 3rd          | er/sie/es steigt _ aus | sie steigen _ aus |
+            
+
+Ich steige hier aus.
+Steigst du hier aus?
+Wo steigst du aus?
 
 --------------------------------------------------------------------------------
 beginnen - to begin
@@ -341,7 +377,7 @@ Darf ich dein Fahrrad nehmen?
 einkaufen - to shop
 
 Regular: True
-einkaufen is a seperable verb.
+einkaufen is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -358,7 +394,7 @@ einladen - to invite
 
 Regular: False
 Vokalwechsel: a -> ä
-einladen is a seperable verb.
+einladen is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -374,7 +410,7 @@ Darf ich Sie zu einem Kaffee einladen?
 einsteigen - to entry/get on
 
 Regular: True
-einsteigen is a seperable verb.
+einsteigen is a separable verb.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
@@ -417,6 +453,8 @@ Regular: True
             
 
 Kannst du mir das erklären?
+Wie eklärst du das?
+Das eklärt einiges.
 
 --------------------------------------------------------------------------------
 erlauben - to permit
@@ -432,6 +470,7 @@ Regular: True
             
 
 Rauchen ist hier nicht erlaubt.
+Ich erlaube es.
 
 --------------------------------------------------------------------------------
 essen - to eat
@@ -449,6 +488,7 @@ Vokalwechsel: e -> i
 
 Was gibt es zu essen?
 Du isst gerne Eis.
+Ich esse Hähnchen.
 
 --------------------------------------------------------------------------------
 fahren - to drive
@@ -531,6 +571,24 @@ Vokalwechsel: e -> i
 Gebt mir noch einen.
 Gibt es Milch?
 Kannst du mir bitte das Salz geben?
+
+--------------------------------------------------------------------------------
+gefallen - to please/enjoy
+
+Regular: False
+Vokalwechsel: a -> ä
+
+            | Person       | Singular | Plural |
+            | ------------ | -------- | ------ |
+            | 1st          | ich gefalle | wir gefallen |
+            | 2nd          | du gefällst | ihr gefallt |
+            | 2nd (formal) | Sie gefallen | Sie gefallen |
+            | 3rd          | er/sie/es gefällt | sie gefallen |
+            
+
+Gefällt dir die Stadt?
+Das Buch gefällt mir sehr.
+Keinem gefällt es.
 
 --------------------------------------------------------------------------------
 gehen - to go
@@ -648,6 +706,9 @@ Regular: True
             
 
 Ich hole zwei Flaschen Wasser aus der Küche.
+Er holt Kaffee.
+Holst du mir einen Kaffee?
+Ich hole Gläser.
 
 --------------------------------------------------------------------------------
 hören - to hear
@@ -712,6 +773,7 @@ Regular: True
 
 ich koche täglich.
 Kochst du gern?
+Wer kocht heute Abend?
 
 --------------------------------------------------------------------------------
 kommen - to come
@@ -728,6 +790,7 @@ Regular: True
 
 Woher kommen Sie?
 Kommst du mit?
+Ich komme bald.
 
 --------------------------------------------------------------------------------
 können - to can/be able
@@ -831,10 +894,11 @@ Regular: True
             
 
 Was möchten Sie trinken?
-Ich möchte einen Kaffee.
+Ich möchte einen Kaffee bitte.
+Wir möchten bezahlen bitte.
 
 --------------------------------------------------------------------------------
-mögen - to like (politely)
+mögen - to like somebody/something
 
 Regular: False
 Vokalwechsel: None
@@ -850,6 +914,10 @@ Has 3 special exceptions: ich, du, er/sie/es.
             
 
 Magst du Kaffee oder Tee?
+Wir mögen Pizza.
+Ich mag meiinen Chef nicht.
+Magst du morgen niicht mitkommen?
+Heute mag ich nicht arbeiten.
 
 --------------------------------------------------------------------------------
 müssen - to have to
@@ -868,6 +936,11 @@ Has 3 special exceptions: ich, du, er/sie/es.
             
 
 Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+Ich kann, weil ich will, was ich muss. (Immanuel Kant)
+Wir müssen sofort etwas essen.
+Er muss heute zu Hause bleiben.
+Hier müssen Sie etwas bestellen.
+Ich muss nach Hause (gehen).
 
 --------------------------------------------------------------------------------
 nehmen - to take
@@ -903,7 +976,7 @@ Ich reise oft.
 Reist du im Sommer nach Spanien?
 
 --------------------------------------------------------------------------------
-sagen - to say
+sagen - to say/tell
 
 Regular: True
 
@@ -916,6 +989,7 @@ Regular: True
             
 
 Ich sage die Wahrheit.
+Du musst es ihm nicht sagen.
 
 --------------------------------------------------------------------------------
 schalfen - to sleep
@@ -1041,6 +1115,22 @@ Ich spreche schlecht Deutsch.
 Welche Sprachen sprichst du?
 
 --------------------------------------------------------------------------------
+stehen - to stand
+
+Regular: True
+
+            | Person       | Singular | Plural |
+            | ------------ | -------- | ------ |
+            | 1st          | ich stehe | wir stehen |
+            | 2nd          | du stehst | ihr steht |
+            | 2nd (formal) | Sie stehen | Sie stehen |
+            | 3rd          | er/sie/es steht | sie stehen |
+            
+
+Wo stehst du in der Schlange?
+Ich stehe bei der Tür.
+
+--------------------------------------------------------------------------------
 studieren - to study
 
 Regular: True
@@ -1087,6 +1177,23 @@ Regular: True
             
 
 Ich habe telefoniert.
+
+--------------------------------------------------------------------------------
+tragen - to wear/carry
+
+Regular: False
+Vokalwechsel: a -> ä
+
+            | Person       | Singular | Plural |
+            | ------------ | -------- | ------ |
+            | 1st          | ich trage | wir tragen |
+            | 2nd          | du trägst | ihr tragt |
+            | 2nd (formal) | Sie tragen | Sie tragen |
+            | 3rd          | er/sie/es trägt | sie tragen |
+            
+
+Tom trägt schwarze Stiefel.
+Muss ich einen Helm tragen?
 
 --------------------------------------------------------------------------------
 treffen - to meet (somebody)
@@ -1189,15 +1296,15 @@ Er wäscht das Auto am Wochenende.
 werden - to become
 
 Regular: False
-Vokalwechsel: e -> i
-Has 1 special exceptions: du.
+Vokalwechsel: None
+Has 2 special exceptions: du, er/sie/es.
 
             | Person       | Singular | Plural |
             | ------------ | -------- | ------ |
             | 1st          | ich werde | wir werden |
             | 2nd          | du wirst | ihr werdet |
             | 2nd (formal) | Sie werden | Sie werden |
-            | 3rd          | er/sie/es wirdet | sie werden |
+            | 3rd          | er/sie/es wird | sie werden |
             
 
 Wirst du morgen zur Party kommen?
@@ -1260,5 +1367,20 @@ Wollen Sie einen Kaffee trinken?
 Willst du etwas trinken?
 Was willst du heute Abend machen?
 Was will er zum Geburtstag?
+
+--------------------------------------------------------------------------------
+wünschen - to wish
+
+Regular: True
+
+            | Person       | Singular | Plural |
+            | ------------ | -------- | ------ |
+            | 1st          | ich wünsche | wir wünschen |
+            | 2nd          | du wünschst | ihr wünscht |
+            | 2nd (formal) | Sie wünschen | Sie wünschen |
+            | 3rd          | er/sie/es wünscht | sie wünschen |
+            
+
+Wie wünschst du es?
 
 --------------------------------------------------------------------------------
